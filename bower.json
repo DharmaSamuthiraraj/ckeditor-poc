@@ -1,0 +1,28 @@
+{
+  "name": "ckeditor_poc",
+  "version": "0.0.0",
+  "authors": [
+    "Arumuga Samuthiraraj <asamuthiraraj@paypal.com>"
+  ],
+  "description": "CKEditor POC",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "ckediotrpoc",
+    "text",
+    "editor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ckeditor": "~1.0.3"
+  }
+}
